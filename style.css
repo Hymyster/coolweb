@@ -1,0 +1,139 @@
+body {
+	background-image: url(background.jpg);
+	background-repeat: none;
+/*	background-position: relative;*/
+	background-size: cover;
+}
+.navbar {
+	position: sticky;
+	top: 0;
+	z-index: 9999;
+}
+.navbar-brand {
+	color: white;
+
+}
+.navbar-brand:hover {
+	color: rgba(255, 232, 170,1);
+}
+.navbar-toggler:hover {
+	color: rgba(255, 232, 170,1);
+}
+#homecolor {
+	color: white;
+}
+#homecolor:hover {
+	color: rgba(255, 232, 170,1);
+}
+.nav-link {
+	color: white;
+}
+.nav-link:hover {
+	color: rgba(255, 232, 170,1);
+}
+#navbarDropdownMenuLink {
+	color: white;
+}
+#navbarDropdownMenuLink:hover {
+	color: rgba(255, 232, 170,1);
+}
+.navbar {
+	background-color: rgba(105, 79, 145,1);
+
+}
+.dropdown-item {
+	background-color: rgba(0,0,0,0.9);
+	color: white;
+}
+.dropdown-menu {
+	background-color: rgba(0,0,0,0.9);
+}
+.dropdown-item:hover {
+	background-color: rgba(105, 79, 145,1);
+	color: rgba(255, 232, 170,1);
+}
+.d-block {
+	min-height: 700px;
+	max-height: 700px;
+	max-width: 1500px;
+
+}
+.carousel-item {
+	max-height: 700px;
+	min-width: auto;
+
+}
+/*#carouselExampleFade {
+	margin-top: 0px;
+	position: relative;
+	vertical-align: center;
+	align-content: center;
+}*/
+.carousel-inner img {
+  margin: auto;
+  size: 100% 100%;
+}
+hr {
+	position: relative;
+    border: none;
+    height: 6px;
+    color: blue;
+    background-color: blue;
+}
+#happy {
+	text-align: center;
+	color: white;
+
+}
+.forms {
+	text-align: center;
+}
+.fundog {
+	text-align: center;
+}
+.fundog1 {
+	min-height: 800px;
+}
+#features {
+	color: white;
+	text-align: center;
+}
+#chuckle {
+	text-align: center;
+	color: white;
+}
+#button-features {
+	text-align: center;
+}
+#sad-header {
+	text-align: center;
+	color: white;
+
+}
+#sad-dog {
+	text-align: center;
+}
+.sad-dog {
+	position: relative;
+	max-height: 700px;
+	max-width: 900px;
+	min-width: 900px;
+	text-align: center;
+}
+#sad-button {
+	text-align: center;
+}
+#sad-button:hover {
+	cursor: pointer;
+}
+.fun-header {
+	text-align: center;
+	color: white;
+}
+.button-next {
+	text-align: center;
+	text-decoration: none;
+}
+#sad-button {
+	height: 40px;
+}
